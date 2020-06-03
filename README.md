@@ -1,0 +1,2 @@
+# DocumentHierarchyExample
+Пример иерархии классов
